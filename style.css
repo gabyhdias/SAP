@@ -19,7 +19,14 @@ Body {
 }
 
 #robô {
+    bottom: 20px;
+    right: 20px;
     width: 200px;
     height: 200px;
     justify-content: left;
+}
+
+
+.d1 {
+    background-color: aqua;
 }
